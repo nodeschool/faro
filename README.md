@@ -1,5 +1,6 @@
 Nodeschool Faro
 ===============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nodeschool/faro?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Olá e bem vindos! (Didn't get that? Head here for EN)
 
