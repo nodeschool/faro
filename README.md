@@ -6,7 +6,7 @@ Olá e bem vindos! (Didn't get that? Head here for EN)
 
 ## Contactos
 
-Se estiverem interessados em ajudar com a organização ou em patrocinar o evento, não exitem em contactar directamente um dos mencionados acima, ou simplesmente criem um issue :)
+Se estiverem interessados em ajudar com a organização ou em patrocinar o evento, não hesitem em contactar directamente um dos mencionados acima, ou simplesmente criem um issue :)
 
 [![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/nodeschool/faro?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
