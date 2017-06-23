@@ -27,7 +27,7 @@ __Se já conheces, tens curiosidade, ou pretendes conhecer o Node.js__ estás de
 
 No entanto, __para aqueles que não têm, temos um workshop específico para introdução ao JavaScript__ que é fundamental para a introdução aos conceitos do Node. 
 
-O nodeschool tem diversos workshoppers propostos: [link](http://nodeschool.io/pt-pt/index.html) e todos são desenvolvidos ao longo dos nossos eventos.
+O nodeschool tem diversos workshoppers propostos, [link](http://nodeschool.io/pt-pt/index.html),  e todos são desenvolvidos ao longo dos nossos eventos.
 
 -------------------------------------------------------------------------
 
