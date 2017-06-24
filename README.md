@@ -1,5 +1,5 @@
 # Nodeschool Faro
-[:uk: version here](https://github.com/nodeschool/faro/blob/master/README_EN.md))
+[:uk: version here](https://github.com/nodeschool/faro/blob/master/README_EN.md)
 ---------------------------------------------------------------------------
 
 ### 01. Próximo Evento
