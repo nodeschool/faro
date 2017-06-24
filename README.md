@@ -1,8 +1,8 @@
 # Nodeschool Faro
-
+[:uk: version here](https://github.com/nodeschool/faro/blob/master/README_EN.md))
 ---------------------------------------------------------------------------
 
-## 0. Próximo Evento
+### 01. Próximo Evento
 
 ### Pragmatic Node - 24 de Junho de 2017 - Universidade do Algarve
 
@@ -10,13 +10,13 @@ A inscrição deverá ser feita [AQUI](https://ti.to/geeksessions/the-pragmatic-
 
 Serão desenvolvidos dois [workshoppers](https://nodeschool.io/pt-pt/index.html) 
 1. ExpressWorks 
-2. javascripting
+2. Javascripting
 
 ---------------------------------------------------------------------------
 
-### 1. Introdução
+### 02. Introdução
 
-Olá! Sejam bem-vindos! (Didn't get that? Head here for [EN Version :uk:](https://github.com/nodeschool/faro/blob/master/README_EN.md))
+Olá! Sejam bem-vindos!
 
 [andrezzoid](https://github.com/andrezzoid) [mcoquet](https://github.com/mcoquet), [rsoares](https://github.com/rsoares) e [nneves](https://github.com/nneves) são os anfitriões do Nodeschool Faro,um evento dedicado a Node.js, num formato muito simples e acessivel.
 
@@ -31,7 +31,7 @@ O nodeschool tem diversos workshoppers propostos, [link](http://nodeschool.io/pt
 
 -------------------------------------------------------------------------
 
-### 3. Contactos
+### 03. Contactos
 
 Se estiverem interessados em ajudar com a organização ou em participar no evento não hesitem em contactar directamente um dos mencionados acima, ou simplesmente criem um issue :)
 
@@ -39,7 +39,7 @@ Se estiverem interessados em ajudar com a organização ou em participar no even
 
 ------------------------------------------------------------
 
-### 4. Eventos e Social Media
+### 04. Eventos e Social Media
 
 Twittem updates & fotos com a hashtag [#nodeschool-faro](https://twitter.com/search?q=nodeschool-faro)
 
