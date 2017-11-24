@@ -4,13 +4,12 @@
 
 ### 01. Próximo Evento
 
-### Pragmatic Node - 24 de Junho de 2017 - Universidade do Algarve
+### Promises Workshop for JavaScript - 02 de Dezembro de 2017 - Turbine Kreuzberg PT
 
-A inscrição deverá ser feita [AQUI](https://ti.to/geeksessions/the-pragmatic-node) e se tiverem qualquer problema não hesitem em contactar-nos de acordo com a informação abaixo.
+A inscrição deverá ser feita [AQUI](https://ti.to/geeksessions/promises-workshop-for-javascript) e se tiverem qualquer problema não hesitem em contactar-nos de acordo com a informação abaixo.
 
-Serão desenvolvidos dois [workshoppers](https://nodeschool.io/pt-pt/index.html) 
-1. ExpressWorks 
-2. Javascripting
+Será desenvolvido um [workshopper](https://nodeschool.io/pt-pt/index.html)
+1. Promise it wont hurt
 
 ---------------------------------------------------------------------------
 
